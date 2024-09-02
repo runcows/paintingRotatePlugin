@@ -1,0 +1,4 @@
+name: paintingRotate
+version: '1.0'
+main: io.github.runcows.paintingRotate.PaintingRotate
+api-version: '1.21'
